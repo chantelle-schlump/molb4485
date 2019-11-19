@@ -1,0 +1,11 @@
+Starting raxmlHPC run at Tue Nov 19 13:49:20 MST 2019
+Warning, you specified a working directory via "-w"
+Keep in mind that RAxML only accepts absolute path names, not relative ones!
+
+RAxML can't, parse the alignment file as phylip file 
+it will now try to parse it as FASTA file
+
+ERROR: Taxon Name "AF264047.1(cave" is invalid at position 10, it contains illegal character (
+Illegal characters in taxon-names are: tabulators, carriage returns, spaces, ":", ",", ")", "(", ";", "]", "[", "'" 
+Exiting
+RAxML has finished at Tue Nov 19 13:49:20 MST 2019
